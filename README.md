@@ -21,8 +21,7 @@ Get the top 20 movies of each year based on popularity. Scroll up to fetch the p
 
 ## Prerequisites
 1. NPM & Node.js
-2. React JS
-3. Git
+2. Git
 
 ### Run the project. (Prerequisites already installed)
 1. Clone the repository using the command below
@@ -42,7 +41,7 @@ npm start
 ### Installing Prerequisites (NPM & Nodejs)
 [Click here to download and install npm ](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-OR Follow the below steps.
+OR Follow the below steps
 
 1. Installing NodeJs and NPM - The only way you can install NodeJS is through their official website. Installing NodeJS will also automatically download NPM on your machine. 
 [Click here to download the nodejs version.](https://nodejs.org/en/download)
@@ -57,8 +56,10 @@ and
 npm --version
 This will return your NodeJS and NPM versions.
 
+### Installing Prerequisites (Git)
+[Document to follow to install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-
+### Once prerquisites are installed follow the steps above to setup the code
 
 
 
