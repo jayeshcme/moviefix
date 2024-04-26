@@ -24,7 +24,7 @@ Get the top 20 movies of each year based on popularity. Scroll up to fetch the p
 2. Git
 
 ### Run the project. (Prerequisites already installed)
-1. Clone the repository using the command
+1. Clone the repository using the command in your terminal
 ```
 git clone https://github.com/jayeshcme/moviefix.git
 ```
