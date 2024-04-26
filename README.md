@@ -11,10 +11,10 @@ Get the top 20 movies of each year based on popularity. Scroll up to fetch the p
 7. Movie list currently Poster Image and name of the movie year wise.
 8. Genre filter UI created with fetching data from TMDB genre API. Multi selection added.
 
-## Requirements for future.
+## Requirements/Improvements for future.
 1. Show more movie details like cast, genre, director and description in the card.
 2. Filter the movies based on the genre selected.
-3. Optimize DOM elements on page to as user scrolls more and more and maintain a finite list of items.
+3. Optimize DOM elements on page to as user scrolling is very fast and get movies accrodingly.
 4. Search bar to search for movies.
 
 # Getting started.
