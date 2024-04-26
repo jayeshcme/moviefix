@@ -1,6 +1,7 @@
-# Getting Started with Moviefix App.
+# About Moviefix App.
+Get the top 20 movies of each year based on popularity. Scroll up to fetch the previous year's movie and scroll down to get the next year's movie.
 
-# Requirements Covered
+## Requirements Covered
 1. Developed with React and Typescript bootstraped with CRA (Create React App).
 2. Fetch movies when scrolling up and down from TMDB discover/movies API.
 3. Custom component for infinite and smooth scrolling. No external library used. (Intersection Observer API) (Web and Responsive)
@@ -10,20 +11,31 @@
 7. Movie list currently Poster Image and name of the movie year wise.
 8. Genre filter UI created with fetching data from TMDB genre API. Multi selection added.
 
-# Requirements for future when time permits.
+## Requirements for future.
 1. Show more movie details like cast, genre, director and description in the card.
 2. Filter the movies based on the genre selected.
 3. Optimize DOM elements on page to as user scrolls more and more and maintain a finite list of items.
 4. Search bar to search for movies.
 
-# Prerequisites:
-NPM & Node.js
-React JS
-Git
+# Getting started.
 
-# Getting started. Follow the steps mentioned below.
-## Run the project. (Prerequisites already installed)
-1. git clone 
+## Prerequisites
+1. NPM & Node.js
+2. React JS
+3. Git
+
+### Run the project. (Prerequisites already installed)
+1. Clone the repository using the command below
+git clone https://github.com/jayeshcme/moviefix.git
+
+2. Navigate to project directory 
+cd moviefix
+
+3. Install Dependencies
+npm i
+
+4. Start the development server
+npm start
 
 
 ## Prerequisites not installed. 
