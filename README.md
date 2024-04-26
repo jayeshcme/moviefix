@@ -30,13 +30,19 @@ git clone https://github.com/jayeshcme/moviefix.git
 ```
 
 2. Navigate to project directory
-```cd moviefix```
+```
+cd moviefix
+```
 
 4. Install Dependencies
-```npm i```
+```
+npm i
+```
 
-5. Start the development server
-```npm start```
+6. Start the development server
+```
+npm start
+```
 
 
 ## Prerequisites not installed. 
