@@ -29,14 +29,14 @@ Get the top 20 movies of each year based on popularity. Scroll up to fetch the p
 git clone https://github.com/jayeshcme/moviefix.git
 ```
 
-2. Navigate to project directory 
-cd moviefix
+2. Navigate to project directory
+```cd moviefix```
 
-3. Install Dependencies
-npm i
+4. Install Dependencies
+```npm i```
 
-4. Start the development server
-npm start
+5. Start the development server
+```npm start```
 
 
 ## Prerequisites not installed. 
