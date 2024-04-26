@@ -59,7 +59,7 @@ This will return your NodeJS and NPM versions.
 ### Installing Prerequisites (Git)
 [Document to follow to install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-### Once prerquisites are installed follow the steps above to setup the code
+### Once prerquisites are installed follow the steps in Run the Project section.
 
 
 
