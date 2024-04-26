@@ -70,7 +70,6 @@ function MovieListByYear(props: MovieListByYearProps) {
   };
 
   const getSetMoviesByYear = useCallback((isStart: boolean) => {
-    console.log(selectedGenres);
     if (isStart) {
       setStartMovieYear((oldYear: number) => {
         const yearToFetch = oldYear - 1;
