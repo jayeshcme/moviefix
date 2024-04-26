@@ -1,0 +1,8 @@
+.header-container {
+  background: var(--background-secondary-color);
+	height: 64px;
+}
+
+.header-container .logo {
+	margin: 11px 16px;
+}

@@ -1,0 +1,6 @@
+.movie-list-container {
+  color: var(--movie-list-text-color);
+  height: calc(100% - 64px);
+  overflow: scroll;
+  margin: 0px 16px;
+}

@@ -1,0 +1,40 @@
+.filter-container {
+  background: var(--background-secondary-color);
+  padding: 16px;
+  overflow: auto;
+  white-space: nowrap;
+  height: 32px;
+}
+
+.filter-container .filter-pill {
+  height: 32px;
+  margin-right: 8px;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background: var(--filter-pill-bg-color);
+  border: none;
+  color: var(--filter-text-color);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+}
+
+.filter-container .filter-pill:last-of-type {
+  margin-right: 0px;
+}
+
+.filter-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hiding scrollbar for IE, Edge and Firefox */
+.filter-container {
+  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+}
+
+.filter-container .active {
+  background: var(--filter-pill-bg-active-color);
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --font-family: "Saira", sans-serif;
+
+    --background-color: #121212;
+    --background-secondary-color: #242424;
+
+    --filter-pill-bg-color: #484848;
+    --filter-pill-bg-active-color: #F0283C;
+    --filter-text-color: #F5F5F5;
+
+    --movie-list-text-color: #FFFFFF;
+
+    --primary-loader-color: #F0283C;
+}

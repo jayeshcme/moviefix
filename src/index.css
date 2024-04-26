@@ -1,0 +1,9 @@
+body {
+  background: var(--background-color);
+  height: 100vh;
+  margin: 0;
+}
+
+* {
+  font-family: var(--font-family);
+}
